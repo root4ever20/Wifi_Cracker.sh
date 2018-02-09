@@ -7,7 +7,7 @@ echo "##############################################################"
 echo "WIFI WPA/WPA2 CRACKER,loading...."
 
 sleep 3
-read -p "You nedd to crack using :
+read -p "You can crack using :
  1)numbers just 
  2)small_letters just 
  3)numbers+small_letters
@@ -79,4 +79,3 @@ echo "Have a nice day :)"
 echo "GoodBye"
 exit
 fi
-
